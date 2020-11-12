@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Applied Dara Science Capstone Notebook
+Applied Data Science Capstone Notebook
